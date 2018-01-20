@@ -48,12 +48,8 @@ export default {
 }
 .cover {
   display: block;
-<<<<<<< HEAD
   height: 400px;
   max-width: 600px;
-=======
-  height: 440px;
->>>>>>> 2deeb5ed52de6c442015b4e9821f0edd01b31277
   border-radius: 16px;
   box-shadow: 0px 0px 10px 6px #002329;
   margin-bottom: -48px;
