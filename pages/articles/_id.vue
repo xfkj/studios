@@ -48,20 +48,20 @@ export default {
 }
 .cover {
   display: block;
-  height: 200px;
-  margin: 0 auto;
+  height: 440px;
   border-radius: 16px;
-  box-shadow: 0px 0px 10px 3px #262626;
-  transform: translateY(40%);
-  z-index: 10;
+  box-shadow: 0px 0px 10px 6px #002329;
+  margin-bottom: -48px;
 }
 .content {
+  width: 900px;
+  margin-left: 120px;
   background: #e8e8e8;
   font-size: 20px;
   line-height: 1.5;
   padding: 4px 12px;
   border-radius: 16px;
-  box-shadow: 0px 0px 10px 3px #262626;
+  box-shadow: 0px 0px 10px 6px #002329;
   color: #262626;
   padding-top: 40px;
 }
