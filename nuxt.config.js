@@ -3,7 +3,7 @@ module.exports = {
   ** Headers of the page
   */
   head: {
-    title: '杭州画室排名,杭州美术培训班，老鹰画室，孪生画室，白塔岭画 室，厚一画室-非凡教育官方网站',
+    title: '杭州画室排名,杭州美术培训班，老鹰画室，孪生画室，白塔岭画室，厚一画室-非凡教育官方网站',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
