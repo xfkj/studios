@@ -5,7 +5,6 @@ nav
       nuxt-link(to="/" exact) 杭州画室大全
     .left
       nuxt-link(to="/studios") 画室大全
-      nuxt-link(to="/news") 画室资讯
     .right
       a(href="//ffjy.org" target="_blank") 非凡官网
       a(href="//myfz.ffjy.org" target="_blank") 非凡美院附中
